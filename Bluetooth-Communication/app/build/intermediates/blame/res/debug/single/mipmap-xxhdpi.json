@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\Projects\\#Android\\Sending-and-Receiving-Data-with-Bluetooth\\Bluetooth-Communication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Projects\\#Android\\Sending-and-Receiving-Data-with-Bluetooth\\Bluetooth-Communication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
         "source": "F:\\AndroidStudio Projects\\Bluetooth-Communication\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }

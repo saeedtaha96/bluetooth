@@ -3,156 +3,219 @@
 
     <item
         is-multidex="false"
-        jar="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
+        jar="C:\Users\remem\.gradle\caches\modules-2\files-2.1\androidx.lifecycle\lifecycle-common\2.1.0\c67e7807d9cd6c329b9d0218b2ec4e505dd340b7\lifecycle-common-2.1.0.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ad8a1262801ff5a65f7e10a1f980f6496c7fc4c9.jar" />
+        revision="26.0.3"
+        sha1="c67e7807d9cd6c329b9d0218b2ec4e505dd340b7">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\lifecycle-common-2.1.0_828b250f08070c2d893b4e2e3abf67cdcf1eb8f3.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        jar="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\androidx.versionedparcelable\versionedparcelable\1.1.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="48dbfe28ca5f0822ae23432173c81e864f2efa63">
-        <dex dex="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\instant-run_05eaa1b02bbd11e8f09902a93a67fa40be0d7cc3.jar" />
+        revision="26.0.3"
+        sha1="06d7c35b49dba074280189798a8acc18447a0f0a">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\androidx.versionedparcelable-versionedparcelable-1.1.0_c07d884f999821c29427e2278e92f0d43ece3319.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        jar="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\androidx.lifecycle\lifecycle-livedata\2.0.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_9f94cc25dd4c4ca620c92ac108098550c25c3e52.jar" />
+        revision="26.0.3"
+        sha1="b192265fdb92978ad55a3ff069e9867ab79ab043">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\androidx.lifecycle-lifecycle-livedata-2.0.0_13ab73387a4f4b6f4a13e79aec0204698d6ea762.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        jar="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\androidx.vectordrawable\vectordrawable-animated\1.1.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="64c57204b693520c0ad9e778a2f1faf33392b55b">
-        <dex dex="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f57fe2c8c286e1123b442d34e4da5b2c47840b98.jar" />
+        revision="26.0.3"
+        sha1="867f6b6a21b8459f4ec90d6c4d77ac8081e2fb90">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\androidx.vectordrawable-vectordrawable-animated-1.1.0_78093f6d3ffb7966d9b9ec0c89faef59bc190275.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        jar="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\androidx.appcompat\appcompat-resources\1.2.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_c7b3666adc1a964f9645f3da5772207dd46741b6.jar" />
+        revision="26.0.3"
+        sha1="75efe25baea270e17bc4686caaed617d0a0e0311">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\androidx.appcompat-appcompat-resources-1.2.0_aec63b8abc4cf74996a6ade4dfda4ae247fbadf0.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        jar="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\androidx.activity\activity\1.0.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_a428c2620b9f689505c5340b1d5b48468e2d2be4.jar" />
+        revision="26.0.3"
+        sha1="084ffb68d1c5fe89e7b23887644b90daf80e30e0">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\androidx.activity-activity-1.0.0_2135ab910631ca5f92f64c8589414b9889e06b68.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        jar="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\androidx.viewpager\viewpager\1.0.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_7d8355ea3f78e250bcdb72a71482ec0239036f37.jar" />
+        revision="26.0.3"
+        sha1="2d5f14ed7ebe7420ea09aad89d2115b20fb27f30">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\androidx.viewpager-viewpager-1.0.0_befe8fd03ae7317803a890768fd469b658236bee.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        jar="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\androidx.lifecycle\lifecycle-runtime\2.1.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
-        <dex dex="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_8ce5f9799b15661756a134a5190123b036f98199.jar" />
+        revision="26.0.3"
+        sha1="a2c0ae06b20fb3c2a7db2b06116823a80b1cd9b1">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\androidx.lifecycle-lifecycle-runtime-2.1.0_ddd8aa796adb6e72a558a3cfc2d433637037855d.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\User\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
-        jumboMode="true"
+        jar="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\androidx.savedstate\savedstate\1.0.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_54dc45dfabb608f3363bca49d90843bc42ff330f.jar" />
+        revision="26.0.3"
+        sha1="63d98a233da35ccfec60793d27309506ce16d7c3">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\androidx.savedstate-savedstate-1.0.0_9f8ecf080c243e762291e95aa83a4ca11c81ed79.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        jar="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\androidx.vectordrawable\vectordrawable\1.1.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_ec8659048ca5bbb7ebeb6cf07aec550956f8d59c.jar" />
+        revision="26.0.3"
+        sha1="9010b5b6c4d08280cf41486c6525dea5f3e57044">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\androidx.vectordrawable-vectordrawable-1.1.0_37070cca009025a3bd0d0eddadbe8c8d8c9f02ec.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
+        jar="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\androidx.lifecycle\lifecycle-viewmodel\2.1.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_192696fe5b40b2d3bf6c76eb3c9e4cc9a92be2b6.jar" />
+        revision="26.0.3"
+        sha1="14fd11df2436487169d2b33bb29b0dd600b20cbb">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\androidx.lifecycle-lifecycle-viewmodel-2.1.0_5374f3d175e74b5da629c717e56f4b08a08ebb32.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
+        jar="C:\Users\remem\.gradle\caches\modules-2\files-2.1\androidx.arch.core\core-common\2.1.0\b3152fc64428c9354344bd89848ecddc09b6f07e\core-common-2.1.0.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_288c38c27254b947771fc21857497dcfe23aad4b.jar" />
+        revision="26.0.3"
+        sha1="b3152fc64428c9354344bd89848ecddc09b6f07e">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\core-common-2.1.0_ccfeee50fc14745a309b54c11d7e995dcf475d0a.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        jar="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\androidx.drawerlayout\drawerlayout\1.0.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_fa34c959d1efeb01938a733d39bae91d51432004.jar" />
+        revision="26.0.3"
+        sha1="fed4556e7df28b94da719ee5bce4655da79143d5">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\androidx.drawerlayout-drawerlayout-1.0.0_d81824a78fa909220e17a4c996716c3c4083d12f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        jar="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\androidx.appcompat\appcompat\1.2.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_3bde0f8cf68879fb75d2d90a2caba9ac4ccc30a1.jar" />
+        revision="26.0.3"
+        sha1="dc0d76e4b720926b5ae50385330a67ae19396a6d">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\androidx.appcompat-appcompat-1.2.0_df2da80772ae6f79e97c19b8d0cf8551757c14f0.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
+        jar="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\androidx.lifecycle\lifecycle-livedata-core\2.0.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f9f457aed1a91c15ed976b447b817c92862f278c.jar" />
+        revision="26.0.3"
+        sha1="c1ca9dc19b3f96bb9473a9357c1cdc38a9c5b347">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\androidx.lifecycle-lifecycle-livedata-core-2.0.0_0238d7dc4429361530eb8035857422389c271ae5.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="true"
+        jar="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\androidx.interpolator\interpolator\1.0.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_78ad6b12490be7860fa2b24810a0e3054fcb12d5.jar" />
+        revision="26.0.3"
+        sha1="39eb18023267bf656e249fbb4adb1b7622b01d81">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\androidx.interpolator-interpolator-1.0.0_beec5c20fead5c687eb9138a24206d9498e05f08.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
-        jumboMode="true"
+        jar="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\androidx.fragment\fragment\1.1.0\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="24.0.1"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="F:\AndroidStudio Projects\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_d5ec9ef5865979f5d633cdbeb242ac11e7e07b84.jar" />
+        revision="26.0.3"
+        sha1="f03127ac71c1f2f8f2061f286eb7f875e756e6b4">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\androidx.fragment-fragment-1.1.0_fd6be596d54e79a7f7f447b802a9afa00df35a1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\androidx.core\core\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8738d7a81f284de50b6c9877eed2947cc63b44da">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\androidx.core-core-1.3.0_37eaad910947aac352c90c73eeea2681e81ee98a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\androidx.cursoradapter\cursoradapter\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f6c8866428c74f1bc105549f51a10143bf18dd1f">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\androidx.cursoradapter-cursoradapter-1.0.0_a6354f46ebc9f4e9c8afd5bacb36d70d9f768c5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\androidx.customview\customview\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="aae5fb0ee6773486b5e7f2036b336ec1fc3a100d">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\androidx.customview-customview-1.0.0_b88822aa14f3c56d317c3162530471095363994e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\androidx.arch.core\core-runtime\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="335266a4ef14fb814f47a1030b685a26ec3cb59f">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\androidx.arch.core-core-runtime-2.0.0_eb7f42a9abd58e374ffc9fa3c5b3a553827bf387.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\remem\.gradle\caches\modules-2\files-2.1\androidx.collection\collection\1.1.0\1f27220b47669781457de0d600849a5de0e89909\collection-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1f27220b47669781457de0d600849a5de0e89909">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\collection-1.1.0_624ad3bbe5e2c5a9b13e0379a4da8a4f6657b0f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\exploded-aar\androidx.loader\loader\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8110ba5ec44be61aa96f8bd8d1c57eed0efdb7b9">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\androidx.loader-loader-1.0.0_9311ee69cd649fe4b24c9cfc0f1917da1136d3c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\remem\.gradle\caches\modules-2\files-2.1\androidx.annotation\annotation\1.1.0\e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8\annotation-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8">
+        <dex dex="D:\Projects\#Android\Sending-and-Receiving-Data-with-Bluetooth\Bluetooth-Communication\app\build\intermediates\pre-dexed\debug\annotation-1.1.0_29eaecddb95a0b7a7833d9584efa83660a9d647d.jar" />
     </item>
 
 </items>
